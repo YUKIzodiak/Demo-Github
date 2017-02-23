@@ -1,2 +1,3 @@
 Hello world, ini file baru
 Ini baris baru
+Baris ketiga
